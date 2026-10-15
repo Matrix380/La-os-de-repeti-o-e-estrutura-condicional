@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*Estrutura comdicional*/
 /*
 Programa que recebe valor da compra e calcula depois do desconto
@@ -22,4 +23,3 @@ else{
     ttcomdes = ttsemdes - desconto
     console.log(ttcomdes)
     
-}
